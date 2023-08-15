@@ -51,7 +51,7 @@
     "@solana/buffer-layout": "^3.0.0",
     "dotenv": "10.0.0",
     "json-to-pretty-yaml": "^1.2.2",
-    "mkdirp": "1.0.4"
+    "mkdirp": "3.0.1"
   },
   "devDependencies": {
     "@solana/spl-token": "0.1.8",
